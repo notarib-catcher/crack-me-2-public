@@ -1,4 +1,4 @@
-#CHALLENGE URL: once you figure out the solution, try breaking into here -> https://crackme2-gdsc.mitb.tech 
+#CHALLENGE URL: once you figure out the solution, try breaking into here -> https://crackme2-gdsc.mitb.tech [Challenge closed on April 30 2024]
 the_super_secret = open("the_real_secret.txt", "r").read()
 
 version = "0064-EXAMPLE" 
