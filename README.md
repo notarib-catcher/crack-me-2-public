@@ -10,4 +10,4 @@ On close inspection of the code, you'll notice that the datetime string used to 
 A script to quickly create a signed JWT is in `solution.py`.
 <br>
 <br>
-<sup>A.D (aaryan@aary.dev) 2024</sup>
+<sup>Aaryan.D (aaryan@aary.dev) 2024</sup>
