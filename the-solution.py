@@ -1,7 +1,7 @@
-# Challenge URL - crackme2-gdsc.mitb.tech [Will be open through]
+# Challenge URL - crackme2-gdsc.mitb.tech [Will be open through April 2024]
 # SOLUTION FOR GDSC CRACKME2
 
-# Author - A.D (aaryan@aary.dev - Send feedback here!)
+# Author - Aaryan .D (aaryan@aary.dev - Send feedback here!)
 # For GDSC-MITB, 2024
 
 
